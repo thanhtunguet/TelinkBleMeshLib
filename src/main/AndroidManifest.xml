@@ -18,7 +18,7 @@
     <!-- Needed only if your app makes the device discoverable to Bluetooth
          devices. -->
     <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
-    
+
     <!-- Needed only if your app communicates with already-paired Bluetooth
          devices. -->
     <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
